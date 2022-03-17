@@ -1,7 +1,7 @@
 Project created for MEQ Job application by Ozzy Aytekin
 
 Packages used: 
-Recharts
+Recharts, 
 React-select
 
 
