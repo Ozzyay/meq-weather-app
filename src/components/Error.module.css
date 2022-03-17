@@ -1,0 +1,14 @@
+.errorCont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+.error {
+  padding: 1rem;
+  background-color: #ffecec;
+  color: #000;
+  border: 1px solid #f5aca6;
+  border-radius: 8px;
+}
